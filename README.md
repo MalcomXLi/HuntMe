@@ -1,1 +1,3 @@
-# HuntMe_Server
+# HuntMe Server
+
+This game gonna be LIT!
