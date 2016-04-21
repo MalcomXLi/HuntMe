@@ -1,0 +1,26 @@
+{
+  "name": "huntme",
+  "version": "1.0.0",
+  "description": "This game gonna be LIT!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalcomXLi/HuntMe.git"
+  },
+  "author": "Malcom Li, Maidi Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalcomXLi/HuntMe/issues"
+  },
+  "homepage": "https://github.com/MalcomXLi/HuntMe#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  }
+}
