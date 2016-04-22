@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HuntMe</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="update">Click to update location</string>
+</resources>
