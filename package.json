@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/MalcomXLi/HuntMe#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.16"
   },
   "devDependencies": {
     "jshint": "^2.9.2"
