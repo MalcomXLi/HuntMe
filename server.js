@@ -3,7 +3,7 @@ var app = express();
 var bodyParser = require('body-parser');
 var MongoClient = require('mongodb').MongoClient;
 
-var url = process.env.MONGOLAB_URI + '/team';
+var url = process.env.MONGODB_URI + '/team';
 var db;
 
 MongoClient.connect(url, function(err, database) {
