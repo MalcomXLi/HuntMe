@@ -1,3 +1,5 @@
 # HuntMe Server
 
-This game gonna be LIT!
+| _id        | Team | Name   | Latitude | Longitude |
+| ---------- | ---- | ------ | -------- | --------- |
+| 12345abcde | A    | Ronbon | 1        | 1         |
